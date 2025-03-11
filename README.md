@@ -10,3 +10,6 @@ The AUM3 Dataset was added to the ```custom_datasets.py``` folder, we must also 
 
 ## Building Containers
 The containers ```internetAccess_aum3.sif``` and ```computeNodes_aum3.sif``` were built for the AUM3 Dataset. These containers can be found at: [SYSLAB LINK]
+
+# Optimized version of AUM3-HPU-HSI-Research 
+Add Nvidia's RAPIDS library to the ThreeLayer Machine Learning Model for the Optimized version.
