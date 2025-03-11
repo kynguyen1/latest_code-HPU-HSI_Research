@@ -13,3 +13,6 @@ The containers ```internetAccess_aum3.sif``` and ```computeNodes_aum3.sif``` wer
 
 # Optimized version of AUM3-HPU-HSI-Research 
 Add Nvidia's RAPIDS library to the ThreeLayer Machine Learning Model for the Optimized version.
+
+# local machine INPUT 
+Remote connection from local machine successful!
